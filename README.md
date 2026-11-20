@@ -24,7 +24,7 @@ Video-de-demostracion.mp4
 | --- | --- |
 | Aplicación funcional e instrucciones | https://code-unna.vercel.app/ · `01-definicion_proyecto/instrucciones.pdf` |
 | Presentación PDF (10 diapositivas) | `presentacion.pdf` |
-| Video de demostración (125 s, máximo 3 min) | `Video-de-demostracion.mp4` |
+| Video de demostración (2 min 52 s, máximo 3 min) | `Video-de-demostracion.mp4` |
 | Ficha técnica (3 páginas, máximo 4) | `01-definicion_proyecto/ficha_tecnica.pdf` |
 | Guion para la defensa (2+4+4+5 min) | `01-definicion_proyecto/guion_defensa.md` |
 | Declaración de uso de IA | `01-definicion_proyecto/declaracion_ia.pdf` |

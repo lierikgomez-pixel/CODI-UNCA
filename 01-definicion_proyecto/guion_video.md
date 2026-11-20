@@ -1,6 +1,8 @@
 # Guion del video — CODI-UNCA
 
-**Duración:** 125 segundos · **Voz:** es-MX-JorgeNeural
+**Duración del video entregado:** 2 min 52 s (172 s) · **Límite:** 3 minutos
+
+> Esta tabla es la narración de referencia usada durante la generación automática. El archivo final `Video-de-demostracion.mp4` es la versión proporcionada por el equipo.
 
 | # | Diapositiva | Narración |
 | --- | --- | --- |
